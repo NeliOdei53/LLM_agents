@@ -15,8 +15,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Конфигурация
-TELEGRAM_BOT_TOKEN = "6358530150:AAE919TQOeBLw39Jw6N23qcqDDvH2vvuGZk"
-PDF_PATH = "C:\\Users\\NeliOdei\\Documents\\Alt\\data\\abc.pdf"
+TELEGRAM_BOT_TOKEN = ""
+PDF_PATH = ""
 
 # Глобальная переменная для query_engine
 query_engine = None
